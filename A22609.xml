@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the further adiourning of Michaelmas terme</title>
+            <title>Proclamations. 1636-10-02</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22609</idno>
+            <idno type="STC">STC 9073</idno>
+            <idno type="STC">ESTC S118226</idno>
+            <idno type="EEBO-CITATION">99853434</idno>
+            <idno type="PROQUEST">99853434</idno>
+            <idno type="VID">18817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1572:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the further adiourning of Michaelmas terme</title>
+                  <title>Proclamations. 1636-10-02</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[3] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: And by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1636]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Given at our castle of Winsore, the second day of October, in the twelfth yeere of our reigne. 1636.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:18817:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation for the further adiourning of Michaelmas Terme.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Kings moſt Excellent MAIESTIE, out of His Princely</hi> care of the health and ſafety of His Subiects, and to preuent the danger that might ariſe to them by their reſort to <hi>London</hi> or <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> about the occaſions of the Terme, in times of Infection of the plague there, did therefore by His Proclamation dated the ſixth day of September laſt, ſignifie His pleaſure, that part of the Terme of Saint <hi>Michael</hi> then next comming, ſhould be adiourned in and from the <hi>Vtas</hi> thereof, vnto the fourth Returne of the ſame Terme called <hi>Menſe Michaelis</hi> next: Now His Maieſtie finding that the ſickneſſe doth ſtill continue and increaſe in thoſe Cities and parts adioyning, and foreſeeing that the danger thereof would be very great to His whole Kingdome, in diſperſing the Infection, and would longer continue the perill there<g ref="char:EOLhyphen"/>of in thoſe places already infected, by the concourſe of ſo many from all parts of the Realme, whom the buſineſſes of the Terme muſt neceſſarily draw together, doth therefore hereby declare His Royall pleaſure to be, That at the ſaid Returne called <hi>Menſe,</hi> the ſaid Terme be againe adiourned vntill <hi>Quindena Martini,</hi> being the laſt Returne of the ſame, and that to be for ſuch cauſes only, and for ſuch intents and purpoſes, as hereafter is expreſſed; And the ſame ad<g ref="char:EOLhyphen"/>iournement to be made from the laſt day of the ſaid Returne of <hi>Menſe Michaelis,</hi> called the day of appearance. And His Maieſtie to auoid the dammage that may happen to His Subiects in their cauſes and ſuits, if the Terme ſhould be wholly adiourned; Hath by aduice of his Coun<g ref="char:EOLhyphen"/>cell determined to haue ſome part thereof to be holden and continued, that is to ſay, for and during the ſeuerall Returnes of <hi>Octabis Michaelis, Menſe Michaelis,</hi> and <hi>Quindena Martini</hi> onely, and for none other dayes or time whatſoeuer: And to that end His Maieſties will and Commandment is,
+<pb facs="tcp:18817:2"/>
+               <!-- PDF PAGE 8 -->
+that Writs of Adiournement ſhall be awarded by the Lord Keeper of the great Seale of <hi>England,</hi> directed to the Iuſtices of either Bench, and to the Iudges of all other His Maieſties Courts, to whom like Writs haue been vſually directed, Giuing them power to adiourne the ſaid Terme againe, from <hi>Menſe Michaelis</hi> next, vnto <hi>Quindena Martini,</hi> as aforeſaid: wherein neuertheleſſe His Maieſties intention is, that the ſame dayes may be held by one of the Iudges of each Court, onely for the better expediting and continuing of Cauſes and Suits, and returning and ſuing out of Proces, and for ſuch other like things, as may be performed and done, in the abſence of the parties by their Attourneys.</p>
+            <p>And therefore His Maieſty doth hereby declare His pleaſure to bee, that in the ſaid ſeuerall Returnes of <hi>Octabis Michaelis, Menſe Michaelis,</hi> and <hi>Quindena Martini</hi> next coming, there ſhall bee no trialls by Iuries, or any Iudgements vpon Demurrers, or ſpeciall Verdicts, or ſuch like, in any of His Courts of Kings Bench, Common Pleas, or Exchequer: And alſo that there ſhall bee no Iudiciall hearing or determining of any cauſes or matters in any of His Courts of Starre-Chamber, Chancery, Exchequer-Chamber, Court of Wards, Dutchy-Chamber, or Court of Requeſts, during the ſaid Returnes of <hi>Octabis Michaelis, Menſe Michaelis,</hi> and <hi>Quindena Martini,</hi> reſpectiuely as aforeſaid; And that no party ſhall need to be preſent in perſon for any ſuch Cauſes or Suits, but the ſame may be attended and done by their Attourneys. And His Maieſty doth hereby further notifie and declare, that no party ſhall be compelled, or need to appeare in perſon in any of His Maieſties ſaid Courts, at any time during the ſaid Terme, but may make their appearance by their Attourneies, ſauing only in Caſes of Outlawry, and other the Caſes mentioned in the <hi>Prouiſo</hi> hereafter following: And alſo that no Iuries, or any whom the ſame may concerne, ſhall be compelled, or need to appeare in any of His Highneſſe Courts at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> at any time during the ſaid Terme, for any Cauſe or matter whatſoeuer, vnleſſe it bee for ſome ſpeciall and important Cauſe, for His Maieſties ſeruice only. Prouided neuertheleſſe, and His Maieſties pleaſure and Commandment is, That all Collectours, Sheriffes, and other Ac<g ref="char:EOLhyphen"/>comptants, and all other perſons that ſhould or ought to accompt, or pay any ſumme or ſummes of money in any of His Maieſties Courts of Exchequer, Court of Wards and Liueries, or of His Dutchy of <hi>Lancaſter,</hi> or in any of them, or enter into any accompt in any of the ſaid Courts, ſhall re<g ref="char:EOLhyphen"/>paire to the accuſtomed places at <hi>Weſtminſter,</hi> and there to pay, and do in euery behalfe, as though no ſuch Proclamations or Adiournments had beene had or made.</p>
+            <p>And His Maieſties further pleaſure and Commandment is, that all Sheriffes ſhall returne into His Maieſties Court of Exchequer, Court of Wards and Liueries, and Dutchy of <hi>Lancaſter,</hi> all manner of Writs and Proces iſſued out of the ſame Courts, and returnable in <hi>Michaelmas</hi> Terme, which in any ſort concerne His Maieſties Reuenues, Debts, or Duties, at, or before the dayes of Returnes thereof, into ſuch Offices from whence the ſaid Writs and Proces did iſſue: And that all Commiſſioners likewiſe returne all manner of Commiſſions and Inquiſitions re<g ref="char:EOLhyphen"/>turnable the ſame <hi>Michaelmas</hi> Terme, and from the ſaid Court ſent, whereby His Maieſtie is to receiue profit and commodity: And all Sheriffes, Collectours, and all manner of Accomp<g ref="char:EOLhyphen"/>tants, and euery perſon that is to pay any kinde of Debt or Duty vnto the Kings Maieſtie in any of the ſaid Courts; doe either by themſelues, their Deputies or Attourneys, pay the ſame, in ſuch ſort as they ought to haue done, if no ſuch Proclamations or Adiournements had been made; or elſe to ſuſtaine ſuch dammage of Iſſues, Seizure, Fine, Amerciament and Penalty be impoſed vpon them, as hath beene accuſtomed, without any hope to be diſcharged thereof:
+<pb facs="tcp:18817:3"/>
+               <!-- PDF PAGE 9 -->
+And that all Sheriffes, by themſelues, or their ſufficient Deputies, ſhall giue their attendance at the dayes appointed for their oppoſall in the Court of Exchequer, to anſwere their Returnes be<g ref="char:EOLhyphen"/>fore His ſaid Barons, as hath beene heretofore accuſtomed: And if any default ſhall be made by any of the perſons aforeſaid, that then (in reſpect of the Kings neceſſary and extraordinary char<g ref="char:EOLhyphen"/>ges) Sergeants at Armes, and Purſueuants ſhall be ſent to bring them vp, to anſwere their Con<g ref="char:EOLhyphen"/>tempt and ſlacknes in paiment.</p>
+            <p>And for ſuch of His Maieſties Subiects, as haue Cauſe to attend the Maſter and Councell of His Court of Wards and Liueries, to make their Compoſitions for Wardſhips, and ſuing out of Liueries, and other the buſineſſes of that Court; His Maieſties pleaſure is, that all ſuch perſons ſhall giue their attendance on the Maſter and Councell of the ſaid Court at <hi>Acton,</hi> in the County of <hi>Middleſex,</hi> on Munday, being the fourteenth day of <hi>Nouember</hi> next; And ſo from time to time as that Court ſhall direct for diſpatch of the buſineſſe of the ſame Court.</p>
+            <p>And His Maieſtie doth eſpecially charge and require, as well the Lord Maior and Aldermen of the Citie of <hi>London,</hi> as the Iuſtices of Peace, and all other Officers and Miniſters within <hi>Weſtminſter, Middleſex, Surrey</hi> and <hi>Kent,</hi> to take eſpeciall care, that as well the Orders lately pub<g ref="char:EOLhyphen"/>liſhed by His Maieſties direction, as ſuch others as ſhall bee found neceſſary for preuenting the ſpreading of the Infection, bee from time to time ſtrictly put in execution; And alſo, that all other the Iuſtices of Peace in all other Counties, Maiors, Bailiffes, and chiefe Officers of Cities and Townes Corporate, and other places within their ſeuerall Iuriſdictions, be carefull to do the like, as there ſhall be occaſion; As they tender His Maieſties Royall pleaſure, and the common ſafety of His Kingdome and People in theſe times of danger.</p>
+            <closer>
+               <dateline>Giuen at Our Caſtle of <hi>Winſore,</hi> 
+                  <date>the ſecond day of October, in the twelfth yeere of Our Reigne. 1636.</date>
+               </dateline>
+               <lb/>
+               <g ref="char:leaf">❧</g>God ſaue the King. <g ref="char:leaf">❧</g>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie: And by the Aſsignes of IOHN BILL. 1636.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
